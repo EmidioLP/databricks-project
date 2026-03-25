@@ -2,7 +2,7 @@
 
 Bem-vindo ao **Projeto Data Lakehouse do Databricks**.
 
-Este repositório contém uma implementação completa e realista de um **Data Lakehouse**, construída sobre o Databricks, incluindo conjuntos de dados, notebooks, exemplos de SQL e exercícios. Baseado no Bootcamp do canal [Data with Baara](https://www.youtube.com/watch?v=SSKVgrwhzus).
+Este repositório contém uma implementação completa e realista de um **Data Lakehouse**, construída sobre o Databricks, incluindo conjuntos de dados, notebooks, exemplos de SQL e exercícios. Baseado no Bootcamp do canal [Data with Baara](https://www.youtube.com/@DataWithBaraa).
 
 ---
 
