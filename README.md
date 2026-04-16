@@ -11,7 +11,7 @@ Este repositório contém uma implementação completa e realista de um **Data L
 - O Projeto foi todo feito utilizando a [versão gratuita do Databricks](databricks.com/learn/free-edition).
 - Serão disponibilizados os notebooks com todos os scripts desenvolvidos durante o projeto.
 - 🧭 Roteiro do Notion: [Abrir guia](https://candle-gosling-511.notion.site/Project-Building-the-Bike-Data-Lakehouse-2e734b251f1280ab8dadc269e033cc38?source=copy_link)
-- ▶️ Bootcamp do Databricks: [Assistir no YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZoxVkw-KPhcmgLWjHWVUc9)
+- ▶️ Bootcamp do Databricks: [Assistir no YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZoxVkw-KPhcmgLWjHWVUc9).
   
 ---
 
